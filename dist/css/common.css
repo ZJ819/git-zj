@@ -1,0 +1,31 @@
+body, p, h1, h2, h3, h4, h5, h6, ul, ol, li, dl, dt, dd {
+  margin: 0;
+  padding: 0; }
+
+* {
+  box-sizing: border-box; }
+
+ul, ol, li {
+  list-style: none; }
+
+img {
+  vertical-align: middle;
+  border: none; }
+
+a {
+  text-decoration: none;
+  color: #000; }
+
+.fl {
+  float: left; }
+
+.fr {
+  float: right; }
+
+.clr:after {
+  content: ".";
+  display: block;
+  clear: both;
+  height: 0;
+  overflow: hidden;
+  visibility: hidden; }

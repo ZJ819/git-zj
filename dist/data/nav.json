@@ -1,0 +1,152 @@
+[
+               [ {
+                     "img":"./images/62.png",
+                     "info":"拖鞋"
+                },
+                {
+                    "img":"./images/63.png",
+                     "info":"清洁保鲜"
+                },
+                {
+                     "img":"./images/64.png",
+                     "info":"家饰"
+                },
+                {
+                     "img":"./images/65.png",
+                     "info":"收纳"
+                },
+                {
+                     "img":"./images/66.png",
+                     "info":"浴室用品"
+                },
+                {
+                     "img":"./images/67.png",
+                     "info":"床品"
+                }],
+
+            [    {
+                    "img":"./images/68.png",
+                    "info":"杯壶"
+                },
+                {
+                    "img":"./images/69.png",
+                    "info":"餐具"
+                },
+                {
+                    "img":"./images/70.png",
+                    "info":"功能厨具"
+                }],
+        
+            [   {
+                    "img":"./images/71.png",
+                    "info":"T恤"
+               },
+               {
+                   "img":"./images/72.png",
+                    "info":"运动服饰"
+               },
+               {
+                    "img":"./images/73.png",
+                    "info":"内衣"
+               },
+               {
+                    "img":"./images/74.png",
+                    "info":"丝袜"
+               },
+               {
+                    "img":"./images/75.png",
+                    "info":"袜子"
+               },
+               {
+                    "img":"./images/76.png",
+                    "info":"内裤"
+               },
+               {
+                    "img":"./images/77.png",
+                    "info":"配饰"
+               }],
+ 
+            [   {
+                    "img":"./images/78.png",
+                    "info":"美妆"
+                },
+                {
+                    "img":"./images/79.png",
+                    "info":"身体护理"
+                },
+                {
+                    "img":"./images/80.png",
+                    "info":"护肤品"
+                },
+                {
+                    "img":"./images/81.png",
+                    "info":"口腔护理"
+                },
+               {
+                    "img":"./images/82.png",
+                    "info":"洗发护发"
+                },
+                {
+                    "img":"./images/83.png",
+                    "info":"美护工具"
+                }],
+       
+            [   {
+                    "img":"./images/84.png",
+                    "info":"旅行用品"
+                },
+                {
+                    "img":"./images/85.png",
+                    "info":"箱包"
+                }],
+          
+            [   {
+                    "img":"./images/86.png",
+                    "info":"生活电器"
+                },
+                {
+                    "img":"images/87.png",
+                    "info":"数码"
+                }],
+            [   {
+                    "img":"images/88.png",
+                    "info":"雨具"
+                },
+                {
+                    "img":"images/89.png",
+                    "info":"零食"
+                },
+                {
+                    "img":"images/90.png",
+                    "info":"文具"
+                },
+                {
+                    "img":"images/91.png",
+                    "info":"玩具"
+                }],  
+            [   {
+                    "img":"images/92.png",
+                    "info":"粉红豹"
+                },
+                {
+                    "img":"images/93.png",
+                    "info":"裸熊"
+                },
+                {
+                    "img":"images/94.png",
+                    "info":"芝麻街"
+                },
+                {
+                    "img":"images/96.png",
+                    "info":"三丽鸥"
+                },
+                {
+                    "img":"images/97.png",
+                    "info":"潘通"
+                },
+                {
+                    "img":"images/98.png",
+                    "info":"迪士尼"
+                }]
+]                  
+      
